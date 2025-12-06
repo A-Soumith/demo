@@ -1,2 +1,2 @@
 # demo
-This is demo for Git hub
+This is demo for Git hub.
